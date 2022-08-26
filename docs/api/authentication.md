@@ -6,8 +6,8 @@
 - When the APP-ID and the APP-SECRET match, the AUTH-API-Endpoint responds with a Auth-Token.
 - When the Hour is Over the Auth-Token is made unavailible and doesn’t work anymore.
 
-:::tip Auth-Token vs. APP-SECRET
-The **APP-SECRET** is a String that is the Same until manually Reset.
+:::note Auth-Token vs. APP-SECRET
+The **APP-SECRET** is a String that is the Same until manually Reset.   
 The **Auth-Token** changes every Hour and is the String that is sent with every Request.
 :::
 

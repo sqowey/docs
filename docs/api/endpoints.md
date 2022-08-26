@@ -26,7 +26,7 @@ description: Overview of the Endpoints
 | APPLICATIONS | PATCH | 50 | - | DEV-Secret | Change name of an application |
 | APPLICATIONS | DELETE | - | - | DEV-Secret | Delete a Application |
 
-:::tip Difference between /CLIENT/ and /APPLICATIONS/
+:::note Difference between /CLIENT/ and /APPLICATIONS/
 The /APPLICATIONS/-Endpoint is being Authenticated with the Dev-Token and is planned to get called from outside the Application. 
 
 The /CLIENT/-Endpoint is planned to get called while the Application is running and therefore has more instant-action-options (like status) and is therefore being Authenticated with the AUTH-Token which is generated whilst the application is running.

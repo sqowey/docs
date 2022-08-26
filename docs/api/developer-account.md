@@ -5,7 +5,7 @@
 To create a developer-Account, you need to have a normal Sqowey-User-Account.
 Then you can just log into the Developer-portal and we create a Dev-Account for you.
 
-:::tip Developerportal Link
+:::note Developerportal Link
 The developerportal can be found under: [http://devportal.sqowey.de/](http://devportal.sqowey.de) or [http://dev.sqowey.de/](http://dev.sqowey.de)
 :::
 
@@ -33,6 +33,6 @@ Level 9 is for internal developing purposes AND is given out for big Events wher
 
 The Dev-Token is a Token just used to create and manage Applications with an API.
 
-:::tip Developer Token
+:::important Developer Token
 💡 The Dev-Token is generated on registering but can’t be used until you are on Dev-level 2 or higher
 :::

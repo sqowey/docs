@@ -26,5 +26,9 @@
     "sidebar.tutorialSidebar.category.Updates.link.generated-index.description": {
         "message": "Informationen über die Updates",
         "description": "The generated-index page description for category Updates in sidebar tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.Trusted Domains": {
+        "message": "Vertraubare Domains",
+        "description": "The label for category Trusted Domains in sidebar tutorialSidebar"
     }
 }

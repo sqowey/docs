@@ -84,9 +84,22 @@ const config = {
             links: [{
                     title: 'Documentation',
                     items: [{
-                        label: 'Introduction',
-                        to: '/docs/intro',
-                    }, ],
+                            label: 'Introduction',
+                            to: '/docs/intro',
+                        },
+                        {
+                            label: 'API',
+                            to: '/docs/category/api',
+                        },
+                        {
+                            label: 'Trustable domains',
+                            to: '/docs/domains/subdomains',
+                        },
+                        {
+                            label: 'Updates',
+                            to: '/docs/category/updates',
+                        },
+                    ],
                 },
                 {
                     title: 'Community',

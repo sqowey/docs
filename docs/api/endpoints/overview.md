@@ -1,5 +1,6 @@
 ---
-title: Endpoint overview
+sidebar_position: 1
+title: Overview
 description: Overview of the Endpoints
 ---
 

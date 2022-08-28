@@ -7,6 +7,7 @@ Currently we log following informations from API calls:
 - Application-ID used for the API call
 - Endpoint of the Request
 - Request Body
+- HTTP Method used
 - HTTP Response code
 
 We do this to improve performance and find bugs.

@@ -64,7 +64,10 @@ const config = {
                 alt: 'Sqowey Logo',
                 src: 'img/logo_transparent.png',
             },
-            items: [
+            items: [{
+                    type: 'localeDropdown',
+                    position: 'right',
+                },
                 // {
                 //     type: 'doc',
                 //     docId: 'intro',

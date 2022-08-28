@@ -1,0 +1,14 @@
+{
+    "title": {
+        "message": "Blog",
+        "description": "Sqowey - Blog"
+    },
+    "description": {
+        "message": "Blog",
+        "description": "Der Blog für den Messengerdienst Sqowey"
+    },
+    "sidebar.title": {
+        "message": "Letzte Blog-posts",
+        "description": "The label for the left sidebar"
+    }
+}

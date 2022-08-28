@@ -1,0 +1,30 @@
+{
+    "version.label": {
+        "message": "Aktuell",
+        "description": "The label for version current"
+    },
+    "sidebar.tutorialSidebar.category.API": {
+        "message": "API",
+        "description": "The label for category API in sidebar tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.API.link.generated-index.description": {
+        "message": "Dokumentation für die API",
+        "description": "The generated-index page description for category API in sidebar tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.Endpoints": {
+        "message": "API-Endpunkte",
+        "description": "The label for category Endpoints in sidebar tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.Endpoints.link.generated-index.description": {
+        "message": "Spezifische Informationen für die API-Endpunkte",
+        "description": "The generated-index page description for category Endpoints in sidebar tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.Updates": {
+        "message": "Updates",
+        "description": "The label for category Updates in sidebar tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.Updates.link.generated-index.description": {
+        "message": "Informationen über die Updates",
+        "description": "The generated-index page description for category Updates in sidebar tutorialSidebar"
+    }
+}

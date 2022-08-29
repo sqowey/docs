@@ -1,0 +1,8 @@
+{
+    "label": "Updates",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Hier kannst du Informationen über Updates bekommen"
+    }
+}

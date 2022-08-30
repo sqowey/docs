@@ -43,6 +43,7 @@ Antworttext:
 
 ```json
 {
+	"dev_id": "abcdefgh-ijkl-mnop-qrst-uvwxyz123456",
   	"app_id": "a3c60129635c"
 }
 ```

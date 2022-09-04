@@ -19,6 +19,8 @@ These are things we have planned but can’t say which update they will be in:
     - App
 - Support page
 - Support API Endpoint
+- Dev-Portal enhancements:
+    - Add message box when limits are used up
 
 # Next update — Planned features
 

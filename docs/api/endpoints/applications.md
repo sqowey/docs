@@ -14,6 +14,7 @@
 
 ```json
 {
+	"dev_id": "abcdefgh-ijkl-mnop-qrst-uvwxyz123456",
   	"app_name": "TestApp"
 }
 ```
@@ -83,6 +84,7 @@ If you have free Apps left, you will recieve a 201 (Created) Status code and Rec
 
 ```json
 {
+	"dev_id": "abcdefgh-ijkl-mnop-qrst-uvwxyz123456",
     "app_id": "a3c60129635c",
     "app_name": "ThisIsApp"
 }
@@ -102,6 +104,7 @@ If you have free Apps left, you will recieve a 201 (Created) Status code and Rec
 
 ```json
 {
+	"dev_id": "abcdefgh-ijkl-mnop-qrst-uvwxyz123456",
   	"app_id": "a3c60129635c"
 }
 ```

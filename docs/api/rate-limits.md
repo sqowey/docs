@@ -11,8 +11,8 @@ A specific Task costs X Tokens
 | Beginner 2 | 50.000 | Midnight | Verified Dev E-Mail |
 | Advanced 1 | 100.000 | Midnight |  |
 | Advanced 2 | 500.000 | Midnight | Task-Specific registration |
-| Expert 1 | 50.000 | Full Hour | Contact Support |
-| Expert 2 | 150.000 | Full Hour | We will contact you |
+| Enterprise 1 | 50.000 | Full Hour | Contact Support |
+| Enterprise 2 | 150.000 | Full Hour | We will contact you |
 
 ### Start conditions
 

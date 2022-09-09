@@ -25,7 +25,13 @@ If you have free Apps left, you will recieve a 201 (Created) Status code and Rec
 
 ```json
 {
-  	"app_id": "a3c60129635c"
+    "authentication": {
+        "app_secret": "M2wmmOqhUin9Hx2RXVIXRs71hFCRFQ4L9lJ7fmuO3R03H6MP8iL4dbDdzA0fNpW"
+    },
+    "app_name": "TestusApp",
+    "app_id": "90614f6e5ef",
+    "app_level": "B2",
+    "tokens_left": 75000
 }
 ```
 

@@ -21,6 +21,7 @@ These are things we have planned but can’t say which update they will be in:
 - Support API Endpoint
 - Dev-Portal enhancements:
     - Add message box when limits are used up
+- Merge all login pages into one with backdirecting
 
 # Next update — Planned features
 

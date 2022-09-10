@@ -34,7 +34,7 @@ These are things we have planned but can’t say which update they will be in:
 ### API
 
 - [ ]  Add the API endpoints:
-    - [ ]  AUTH
+    - [x]  AUTH
     - [ ]  USERS
     - [ ]  STATISTICS
     - [ ]  MESSAGES

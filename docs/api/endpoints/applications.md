@@ -92,7 +92,9 @@ If you have free Apps left, you will recieve a 201 (Created) Status code and Rec
 {
 	"dev_id": "abcdefgh-ijkl-mnop-qrst-uvwxyz123456",
     "app_id": "a3c60129635c",
-    "app_name": "ThisIsApp"
+	"changes":{
+    	"app_name": "ThisIsApp"
+	}
 }
 ```
 

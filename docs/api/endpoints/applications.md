@@ -96,6 +96,9 @@ If you have free Apps left, you will recieve a 201 (Created) Status code and Rec
 }
 ```
 
+### Response
+If successfull, the response is a 200-status-code (OK) 
+
 ## DELETE /APPLICATIONS/
 
 ### Authentication
@@ -114,3 +117,6 @@ If you have free Apps left, you will recieve a 201 (Created) Status code and Rec
   	"app_id": "a3c60129635c"
 }
 ```
+
+### Response
+If successfull, the response is a 200-status-code (OK) 

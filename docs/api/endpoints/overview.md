@@ -17,6 +17,7 @@ description: Overview of the Endpoints
 | CLIENT | POST | 10 | - | AUTH-Token | Send App-Client Logout to the Server |
 | CLIENT | PATCH | 5 | - | AUTH-Token | Set Status of the App-Client |
 | CLIENT | DELETE | 1.000 | - | AUTH-Token OR APP-SECRET and APP-ID | Emergency Reset of the App-Client |
+| HELP | GET | - | - | - | Get the link of the devportal |
 | MESSAGES | GET | 2 | - | AUTH-Token | Get Text of Message |
 | MESSAGES | POST | 3 | - | AUTH-Token | Send Message |
 | MESSAGES | PATCH | 5 | - | AUTH-Token | Edit Message |

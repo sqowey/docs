@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Sqowey - Docs',
     tagline: 'Documentation for Sqowey',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://docs.sqowey.de',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',

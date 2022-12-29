@@ -1,0 +1,8 @@
+{
+    "label": "Devportal",
+    "position": 7,
+    "link": {
+        "type": "generated-index",
+        "description": "Explanations for all things you find in the Devportal:"
+    }
+}

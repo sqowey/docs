@@ -1,6 +1,6 @@
 ---
 id: versioning
-sidebar_label: versioning
+sidebar_label: Versioning
 title: Versioning
 ---
 

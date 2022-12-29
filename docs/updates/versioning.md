@@ -15,5 +15,5 @@ ZZZ: Group of bugfixes or smaller features
 
 # Appended information
 
-B: Bugfix (With number)
+B: Bugfix (With number)  
 S: Special version (eg. Because of Christmas, there is now snow falling in the app) (Without number)

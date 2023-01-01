@@ -78,8 +78,8 @@ The `redirect_uri` is a link to your applications auth_redirection-page.
 https://cool.page/sqowey/auth_redir/?code=abz2UHAa9sz7dgIGad89a9dgGg&state=59174eb5c8c8ca4f303f3bdbf9
 ```
 `https://cool.page/sqowey/auth_redir` is the redirect_uri you specified in the request.
-The `code` is the access code you need to get the access token.
-The `state` is the same as in the request.
+- The `code` is the auth code you need to get the access token.
+- The `state` is the same as in the request.
 
 :::warning State change
 If the state changes, the request is invalid and means your connection to our servers could be compromised.

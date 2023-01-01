@@ -10,7 +10,7 @@ OAuth2 allows you (as an developer) to build your applications using our service
 ### URLs
 URL | Use
 --- | ---
-https://api.sqowey.de/oauth2/auth | Authorization base URL
+https://account.sqowey.de/oauth2/auth | Authorization base URL
 https://api.sqowey.de/oauth2/token | Token URL
 https://api.sqowey.de/oauth2/token/revoke | Token revocation URL
 
@@ -59,9 +59,9 @@ This happens, because the access code is immediately revoked after usage.
 
 ### Request URL Example
 ```url
-https://api.sqowey.de/oauth2/auth?client_id=1e8bb53916d1&scope=identify%bot&state=59174eb5c8c8ca4f303f3bdbf9&redirect_uri=https://cool.page/sqowey/auth_redir/&response_type=code
+https://account.sqowey.de/oauth2/auth?client_id=1e8bb53916d1&scope=identify%bot&state=59174eb5c8c8ca4f303f3bdbf9&redirect_uri=https://cool.page/sqowey/auth_redir/&response_type=code
 ```
-`https://api.sqowey.de/oauth2/auth` is our base authentication URL.  
+`https://account.sqowey.de/oauth2/auth` is our base authentication URL.  
 The `client_id` is your applications ID.  
 The `scope` is a list of scopes you want the user to accept to.  
 The `state` is a identifier you use that identifies your server.  
